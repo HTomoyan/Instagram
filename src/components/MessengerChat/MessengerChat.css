@@ -1,0 +1,23 @@
+.MessengerChat{
+	min-width: 100%;
+	border-bottom: 1px solid #dfdfdf;
+}
+.left{
+	margin-right: 70%;
+	width: 29%;
+	padding: 10px 20px;
+	margin-top: 2%;
+	margin-left: 2%;
+	background-color: #00c9ff;
+    border-radius: 0 50px 50px 50px;
+}
+.right{
+	left: 100%;
+	width: 29%;
+	margin-left: 70%;
+	padding: 10px 20px;
+	margin-top:2%;
+	margin-right: 2%;
+	background-color: #00c9ff;
+    border-radius: 50px 0 50px 50px;
+}
